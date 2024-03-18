@@ -4,9 +4,9 @@ A testimonial page made with simple HTML and SASS for styling. This is a challen
 
 ## Technologies:
 
-*HTML
-*SASS
+* HTML
+* SASS
 
 
 
-![Screenshot]()
+![Screenshot](https://github.com/nacho1520/testimonial-page/blob/main/public/shot.png)
